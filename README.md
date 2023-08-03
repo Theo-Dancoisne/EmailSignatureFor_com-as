@@ -1,3 +1,3 @@
-# Email-signature-for-com-as
+# Email signature for com-as
 
 Don't judge me, I need it.
