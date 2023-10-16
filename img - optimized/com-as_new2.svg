@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="236">
+    <rect width="100%" height="100%" fill="#000" stroke-width="2" stroke="#fff"/>
+    <line x1="118" y1="0" x2="118" y2="236" stroke-width="1" stroke="#fff"/>
+    <rect width="5.9322033898305084745762711864407%" height="67.372881355932203389830508474576%" x="47.03389830508474576271186440678%" y="1" fill="#fe0000" stroke-width="1" stroke="#fff"/>
+    <rect width="87.288135593220338983050847457627%" height="19.067796610169491525423728813559%" x="6.3559322033898305084745762711864%" y="74.152542372881355932203389830508%" stroke-width="1" stroke="#fff"/>
+    <text x="50%" y="84.745762711864406779661016949153%" dominant-baseline="middle" text-anchor="middle" fill="#fff" font-size="45" font-weight="200">
+        <tspan >
+            com-as
+        </tspan>
+    </text>
+</svg>
